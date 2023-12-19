@@ -15,6 +15,7 @@ This app must be installed with TrollStore.
 * Twitter DM([@linux_n1](https://twitter.com/linux_n1/))
 ※ I usually only reply to my followers.
 ### Support Devices
+* iOS14 Support
 * iOS15 Support
 * iOS16 Support
 * iO17 Support
